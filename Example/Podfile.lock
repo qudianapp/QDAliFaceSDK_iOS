@@ -1,0 +1,23 @@
+PODS:
+  - AliyunOSSiOS (2.10.0)
+  - QDAliFaceSDK_iOS (0.1.0):
+    - AliyunOSSiOS (= 2.10.0)
+
+DEPENDENCIES:
+  - QDAliFaceSDK_iOS (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AliyunOSSiOS
+
+EXTERNAL SOURCES:
+  QDAliFaceSDK_iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: 1f42c7b1542f22b75a81127bdb0b0798122a2f1f
+  QDAliFaceSDK_iOS: 1f77f929da4ec9472cfad2d1a2e702722f93d8dd
+
+PODFILE CHECKSUM: c7750ce2607f12249358582c931eb34e48afc659
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QDAliFaceSDK_iOS_Example' do
+  pod 'QDAliFaceSDK_iOS', :path => '../'
+
+  target 'QDAliFaceSDK_iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
